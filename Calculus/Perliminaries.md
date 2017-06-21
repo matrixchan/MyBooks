@@ -1,4 +1,5 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+ <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
+ </script>
 # Perliminaries 预备
 	三角函数描述循环、重复的活动；指数、对数和逻辑斯蒂函数描述增长和衰减；多项式函数可用来近似表示这些函数或者其它函数。
 	
